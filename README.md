@@ -38,6 +38,13 @@
 
 <p align="center">
 
+💻  
+<img src="https://img.shields.io/badge/CodeCircle-%20Dev%20Forum%20Platform-%2300FFA1?style=for-the-badge&logo=react&logoColor=white" />  
+> A Modern Hub for Developer Discussions & Growth 
+🔗 [Live](https://codecircle5.web.app/) • [Client](https://github.com/moshiurrahmandeap11/codeCircle-client) • [Server](https://github.com/moshiurrahmandeap11/codeCircle-server)
+
+---
+
 🧩  
 <img src="https://img.shields.io/badge/Coursion-%20Course%20Enrollment%20Platform-%2300FFA1?style=for-the-badge&logo=react&logoColor=white" />  
 > Course enrollment platform with seat logic, Firebase/JWT Auth, and admin dashboard.  
