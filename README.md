@@ -25,9 +25,10 @@
   <a href="https://www.linkedin.com/in/moshiurrahmandeap/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%20Professional%20Profile-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:moshiurrahmandeap@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%20Mail%20me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<a href="mailto:moshiurrahmandeap@gmail.com?subject=Hello%20Mo!&body=I%20saw%20your%20portfolio%20and%20wanted%20to%20connect.">
+  <img src="https://img.shields.io/badge/Gmail-%20Mail%20me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
   <a href="https://wa.me/8801409063324" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%20Let's%20Chat-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
