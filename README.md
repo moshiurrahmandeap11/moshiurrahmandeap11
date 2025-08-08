@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Moshiur Rahman </h1>
-<h3 align="center">💻 MERN Stack Developer | 🛠️ Code. Build. Deploy. Repeat.</h3>
+<h1 align="center">Hey, I'm Moshiur Rahman </h1>
+<h3 align="center"> MERN Stack Developer | 🛠 Code. Build. Deploy. Repeat.</h3>
 
 <br/>
 
@@ -9,11 +9,11 @@
 
 ---
 
-### 🧠 About Me
-- 🌱 Currently leveling up my skills in system design and real-time apps  
-- 💼 Working on **Coursion** (Course Platform) and **Miverr** (Freelance Marketplace)  
-- 🎯 Goal: Build high-performance, scalable MERN apps  
-- ⚡ Fun fact: I speak Bangla, Hindi, English, and fluent code 😎
+###  About Me
+-  Currently leveling up my skills in system design and real-time apps  
+-  Working on **Coursion** (Course Platform) and **Miverr** (Freelance Marketplace)  
+-  Goal: Build high-performance, scalable MERN apps  
+-  Fun fact: I speak Bangla, Hindi, English, and fluent code 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/moshiurrahmandeap" target="_blank">
@@ -43,7 +43,7 @@
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 <div align="center">
   <a href="#"><img title="React" alt="React" src="https://skillicons.dev/icons?i=react" height="45" /></a>
   <a href="#"><img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="45" /></a>
@@ -60,7 +60,7 @@
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 <p align="center">
 
@@ -88,7 +88,7 @@
 ---
 
 
-### 📈 GitHub Stats & Activity
+###  GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moshiurrahmandeap11&theme=radical&show_icons=true" width="49%" />
@@ -97,19 +97,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moshiurrahmandeap11&theme=react-dark" width="98%" />
 </p>
 
----
 
-### 📫 Let’s Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/moshiurrahmandeap/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:moshiurrahmandeap@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/moshiurrahmandeap11"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-### 👁️ Total Visitors
+### 👁 Total Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moshiurrahmandeap11&style=flat-square&color=00FFA1" alt="Profile Views" />
