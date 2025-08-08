@@ -17,12 +17,6 @@ Fluent in Bangla, Hindi, and English, I thrive in diverse and dynamic developmen
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.facebook.com/moshiurrahmandeap" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%20Let's%20Connect-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/__moshiur.rahman.deap/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%20Follow%20me-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
   <a href="https://www.linkedin.com/in/moshiurrahmandeap/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%20Professional%20Profile-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -55,20 +49,42 @@ Fluent in Bangla, Hindi, and English, I thrive in diverse and dynamic developmen
 
 --- 
 
-###  Tech Stack
-<div align="center">
-  <a href="#"><img title="React" alt="React" src="https://skillicons.dev/icons?i=react" height="45" /></a>
-  <a href="#"><img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="45" /></a>
-  <a href="#"><img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express" height="45" /></a>
-  <a href="#"><img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="45" /></a>
-  <a href="#"><img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript" height="45" /></a>
-  <a href="#"><img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="45" /></a>
-  <a href="#"><img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html" height="45" /></a>
-  <a href="#"><img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" height="45" /></a>
-  <a href="#"><img title="Firebase" alt="Firebase" src="https://skillicons.dev/icons?i=firebase" height="45" /></a>
-  <a href="#"><img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git" height="45" /></a>
-  <a href="#"><img title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode" height="45" /></a>
+### Tech Stack
+
+<div align="left">
+
+**Frontend:**  
+<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;">
+  <img title="React" alt="React" src="https://skillicons.dev/icons?i=react" height="45" />
+<img title="React Router" alt="React Router" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
+
+  <img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="45" />
+  <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript" height="45" />
+  <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html" height="45" />
+  <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" height="45" />
 </div>
+
+**Backend:**  
+<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;">
+  <img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="45" />
+  <img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express" height="45" />
+  <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="45" />
+  <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python" height="45" />
+</div>
+
+**DevOps & Tools:**  
+<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;">
+  <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker" height="45" />
+  <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git" height="45" />
+  <img title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode" height="45" />
+  <img title="Firebase" alt="Firebase" src="https://skillicons.dev/icons?i=firebase" height="45" />
+</div>
+
+</div>
+
+
+
+
 
 ---
 
