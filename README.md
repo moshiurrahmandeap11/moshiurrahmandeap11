@@ -13,7 +13,28 @@
 - 🌱 Currently leveling up my skills in system design and real-time apps  
 - 💼 Working on **Coursion** (Course Platform) and **Miverr** (Freelance Marketplace)  
 - 🎯 Goal: Build high-performance, scalable MERN apps  
-- ⚡ Fun fact: I speak Bangla, Hindi, English, and fluent code 😎  
+- ⚡ Fun fact: I speak Bangla, Hindi, English, and fluent code 😎
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/moshiurrahmandeap/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/moshiurrahmandeap" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/__moshiur.rahman.deap/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:moshiurrahmandeap@gmail.com" target="_blank">
+    <img align="center" src="https://i.postimg.cc/SR1RYWf9/icons8-gmail-48.png" alt="Email" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/8801409063324" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
+  <a href="https://moshiur-rahman-7daed.web.app" target="_blank">
+    <img align="center" src="https://i.postimg.cc/fRfLxnCZ/world-wide-web-841364.png" alt="Portfolio" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
