@@ -16,25 +16,27 @@
 - ⚡ Fun fact: I speak Bangla, Hindi, English, and fluent code 😎
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/moshiurrahmandeap/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
   <a href="https://www.facebook.com/moshiurrahmandeap" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-%20Let's%20Connect-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.instagram.com/__moshiur.rahman.deap/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-%20Follow%20me-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/moshiurrahmandeap/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%20Professional%20Profile-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:moshiurrahmandeap@gmail.com" target="_blank">
-    <img align="center" src="https://i.postimg.cc/SR1RYWf9/icons8-gmail-48.png" alt="Email" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-%20Mail%20me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://wa.me/8801409063324" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+    <img src="https://img.shields.io/badge/WhatsApp-%20Let's%20Chat-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://moshiur-rahman-7daed.web.app" target="_blank">
-    <img align="center" src="https://i.postimg.cc/fRfLxnCZ/world-wide-web-841364.png" alt="Portfolio" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Portfolio-%20My%20Website-%23FF5722?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio Website"/>
   </a>
 </p>
+
+
 
 ---
 
