@@ -9,11 +9,12 @@
 
 ---
 
-###  About Me
--  Currently leveling up my skills in system design and real-time apps  
--  Working on **Coursion** (Course Platform) and **Miverr** (Freelance Marketplace)  
--  Goal: Build high-performance, scalable MERN apps  
--  Fun fact: I speak Bangla, Hindi, English, and fluent code 
+### About Me  
+I am a MERN Stack Developer specializing in architecting scalable web applications and real-time systems.  
+With a solid grasp of system design and modern development practices, I deliver robust and maintainable code.  
+My approach emphasizes clean code, performance optimization, and seamless collaboration.  
+Fluent in Bangla, Hindi, and English, I thrive in diverse and dynamic development environments.  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/moshiurrahmandeap" target="_blank">
@@ -42,6 +43,17 @@
 
 
 ---
+### Currently Activities  
+- Leveling up on **system design** to build scalable, bulletproof apps.  
+- Playing with **real-time data syncing** and **socket programming.**  
+- Mastering React hooks & state for cleaner code.  
+- Diving into microservices and container tech like Docker & K8s.  
+- Exploring AI tools to automate boring dev tasks and speed up workflow.  
+- Building performant web apps using **Next.js** with **TypeScript.**  
+- Learning **Python** for **machine learning** and data-driven solutions.  
+ 
+
+--- 
 
 ###  Tech Stack
 <div align="center">
