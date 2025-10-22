@@ -29,7 +29,7 @@ Fluent in Bangla, Hindi, and English, I thrive in diverse and dynamic developmen
   <a href="https://wa.me/8801409063324" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%20Let's%20Chat-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://moshiur-rahman-7daed.web.app" target="_blank">
+  <a href="https://moshiurrahman.online" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%20My%20Website-%23FF5722?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio Website"/>
   </a>
 </p>
