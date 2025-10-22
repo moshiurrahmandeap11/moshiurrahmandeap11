@@ -53,34 +53,17 @@ Fluent in Bangla, Hindi, and English, I thrive in diverse and dynamic developmen
 
 <div align="left">
 
-**Frontend:**  
-<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;">
-  <img title="React" alt="React" src="https://skillicons.dev/icons?i=react" height="45" />
-<img title="React Router" alt="React Router" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
+Frontend:
 
-  <img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="45" />
-  <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript" height="45" />
-  <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html" height="45" />
-  <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" height="45" />
-</div>
+<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;"> <img title="React" alt="React" src="https://skillicons.dev/icons?i=react" height="45" /> <img title="React Router" alt="React Router" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" /> <img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="45" /> <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript" height="45" /> <img title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=typescript" height="45" /> <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html" height="45" /> <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" height="45" /> </div>
 
-**Backend:**  
-<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;">
-  <img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="45" />
-  <img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express" height="45" />
-  <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="45" />
-  <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python" height="45" />
-</div>
+Backend:
 
-**DevOps & Tools:**  
-<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;">
-  <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker" height="45" />
-  <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git" height="45" />
-  <img title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode" height="45" />
-  <img title="Firebase" alt="Firebase" src="https://skillicons.dev/icons?i=firebase" height="45" />
-</div>
+<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;"> <img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="45" /> <img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express" height="45" /> <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="45" /> <img title="PostgreSQL" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql" height="45" /> <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python" height="45" /> </div>
 
-</div>
+DevOps & Tools:
+
+<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;"> <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker" height="45" /> <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git" height="45" /> <img title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode" height="45" /> <img title="Firebase" alt="Firebase" src="https://skillicons.dev/icons?i=firebase" height="45" /> </div> </div>
 
 
 
