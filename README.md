@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Moshiur Rahman </h1>
-<h3 align="center"> MERN Stack Developer | 🛠 Code. Build. Deploy. Repeat.</h3>
+<h3 align="center"> Full Stack Developer | 🛠 Code. Build. Deploy. Repeat.</h3>
 
 <br/>
 
@@ -10,7 +10,7 @@
 ---
 
 ### About Me  
-I am a MERN Stack Developer specializing in architecting scalable web applications and real-time systems.  
+I am a Full Stack Developer specializing in architecting scalable web applications and real-time systems.  
 With a solid grasp of system design and modern development practices, I deliver robust and maintainable code.  
 My approach emphasizes clean code, performance optimization, and seamless collaboration.  
 Fluent in Bangla, Hindi, and English, I thrive in diverse and dynamic development environments.  
