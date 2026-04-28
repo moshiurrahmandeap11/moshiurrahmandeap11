@@ -55,7 +55,7 @@ Fluent in Bangla, Hindi, and English, I thrive in diverse and dynamic developmen
 
 Frontend:
 
-<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;"> <img title="React" alt="React" src="https://skillicons.dev/icons?i=react" height="45" /> <img title="React Router" alt="React Router" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" /> <img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="45" /> <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript" height="45" /> <img title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=typescript" height="45" /> <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html" height="45" /> <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" height="45" /> </div>
+<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;"> <img title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="45" />  <img title="React" alt="React" src="https://skillicons.dev/icons?i=react" height="45" /> <img title="React Router" alt="React Router" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" /> <img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="45" /> <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript" height="45" /> <img title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=typescript" height="45" /> <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html" height="45" /> <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" height="45" /> </div>
 
 Backend:
 
@@ -76,23 +76,23 @@ DevOps & Tools:
 <p align="center">
 
 💻  
-<img src="https://img.shields.io/badge/CodeCircle-%20Dev%20Forum%20Platform-%2300FFA1?style=for-the-badge&logo=react&logoColor=white" />  
-> A Modern Hub for Developer Discussions & Growth 
-🔗 [Live](https://codecircle5.web.app/) • [Client](https://github.com/moshiurrahmandeap11/codeCircle-client) • [Server](https://github.com/moshiurrahmandeap11/codeCircle-server)
+<img src="https://img.shields.io/badge/BookShelf-%20Book%20%20Platform-%2300FFA1?style=for-the-badge&logo=react&logoColor=white" />  
+> BookShelf is a modern full-stack web application that revolutionizes the way people discover, purchase, and manage digital books.
+🔗 [Live](https://client-bookshelf.vercel.app/) • [Client](https://github.com/moshiurrahmandeap11/client-bookshelf)
 
 ---
 
 🧩  
-<img src="https://img.shields.io/badge/Coursion-%20Course%20Enrollment%20Platform-%2300FFA1?style=for-the-badge&logo=react&logoColor=white" />  
-> Course enrollment platform with seat logic, Firebase/JWT Auth, and admin dashboard.  
-🔗 [Live](https://coursion-9faf6.web.app/) • [Client](https://github.com/moshiurrahmandeap11/coursion-client) • [Server](https://github.com/moshiurrahmandeap11/coursion-server)
+<img src="https://img.shields.io/badge/BDBOOk-%20Bangladeshi%20Social%20Media-%2300FFA1?style=for-the-badge&logo=react&logoColor=white" />  
+> A social media platform for Bangladeshi people to share their thoughts and ideas.
+🔗 [Live](https://client-bdbook.vercel.app/) • [Client](https://github.com/moshiurrahmandeap11/client-bdbook) 
 
 ---
 
 💼  
-<img src="https://img.shields.io/badge/Miverr-%20Freelance%20Marketplace-%2300FFA1?style=for-the-badge&logo=react&logoColor=white" />  
-> Freelance platform with real-time messaging, service filtering, and secure login.  
-🔗 [Live](https://miverr-7ac31.web.app/) • [Client](https://github.com/moshiurrahmandeap11/Miverr) • [Server](https://github.com/moshiurrahmandeap11/Miverr-Server)
+<img src="https://img.shields.io/badge/CareerCrafter-%20AIPowered%20Job%20Finder-%2300FFA1?style=for-the-badge&logo=react&logoColor=white" />  
+> Career Crafter is a career guidance platform that helps individuals explore and plan their career paths.
+🔗 [Live](https://careercrafter5.web.app/) • [Client](https://github.com/moshiurrahmandeap11/careerCrafter-client)
 
 </p>
 
