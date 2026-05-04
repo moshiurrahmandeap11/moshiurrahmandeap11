@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Moshiur Rahman </h1>
+<h1 align="center">Hey, I'm Moshiur Rahman Deap </h1>
 <h3 align="center"> Full Stack Developer | 🛠 Code. Build. Deploy. Repeat.</h3>
 
 <br/>
@@ -10,10 +10,19 @@
 ---
 
 ### About Me  
-I am a Full Stack Developer specializing in architecting scalable web applications and real-time systems.  
-With a solid grasp of system design and modern development practices, I deliver robust and maintainable code.  
-My approach emphasizes clean code, performance optimization, and seamless collaboration.  
-Fluent in Bangla, Hindi, and English, I thrive in diverse and dynamic development environments.  
+I am Moshiur Rahman Deap a Full Stack Developer with hands-on experience building scalable, production-ready web applications.
+
+I work across the entire stack - crafting responsive Uls with Next.js and Tailwind CSS, designing robust backends with Node.js, Express.js, and REST APIs, and managing data with MongoDB and PostgreSQL. I write clean, typed code in TypeScript and JavaScript, and build secure systems using JWT-based authentication.
+
+Beyond the fundamentals, I integrate LLMs and AI into real-world products - bridging the gap between Al capabilities and practical software that solves real problems.
+
+What drives me: writing code that's not just functional, but maintainable, efficient, and built to last.
+
+Stack: Next.js React.js Node.js Express.js TypeScript JavaScript MongoDB PostgreSQL REST API Tailwind CSS JWT LLM Integration AI Development Socket.io Linux
+
+Open to: Full Stack Developer Next.js Developer Backend Developer Node.js Developer Al Integration Developer Remote Opportunities
+
+Open to meaningful collaborations and opportunities. Let's build something great..  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
