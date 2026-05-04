@@ -1,140 +1,91 @@
-<h1 align="center">Hey, I'm Moshiur Rahman Deap </h1>
-<h3 align="center"> Full Stack Developer | 🛠 Code. Build. Deploy. Repeat.</h3>
-
-<br/>
+<h1 align="center">Moshiur Rahman Deap</h1>
+<h3 align="center">Full Stack Developer | Scalable Systems | AI Integration</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFA1&center=true&vCenter=true&width=700&height=100&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB+Lover;Clean+Code+%7C+Smooth+UX+%7C+Smart+Logic;Always+Building+Something+Cool+🔥" alt="Typing SVG" />
+Official GitHub profile of Moshiur Rahman Deap
 </p>
-
----
-<p align="center">
-  🔗 Official GitHub Profile of Moshiur Rahman Deap
-🐙 GitHub: https://github.com/moshiurrahmandeap11
-</p>
-
----
-
-### About Me  
-I am Moshiur Rahman Deap a Full Stack Developer with hands-on experience building scalable, production-ready web applications.
-
-I work across the entire stack - crafting responsive Uls with Next.js and Tailwind CSS, designing robust backends with Node.js, Express.js, and REST APIs, and managing data with MongoDB and PostgreSQL. I write clean, typed code in TypeScript and JavaScript, and build secure systems using JWT-based authentication.
-
-Beyond the fundamentals, I integrate LLMs and AI into real-world products - bridging the gap between Al capabilities and practical software that solves real problems.
-
-What drives me: writing code that's not just functional, but maintainable, efficient, and built to last.
-
-Stack: Next.js React.js Node.js Express.js TypeScript JavaScript MongoDB PostgreSQL REST API Tailwind CSS JWT LLM Integration AI Development Socket.io Linux
-
-Open to: Full Stack Developer Next.js Developer Backend Developer Node.js Developer Al Integration Developer Remote Opportunities
-
-Open to meaningful collaborations and opportunities. Let's build something great.. 
-
-This GitHub profile represents the official work and projects of Moshiur Rahman Deap. 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/moshiurrahmandeap/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%20Professional%20Profile-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=moshiurrahmandeap@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-%20Compose%20in%20Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-
-
-  <a href="https://wa.me/8801409063324" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%20Let's%20Chat-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://moshiurrahman.online" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%20My%20Website-%23FF5722?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio Website"/>
-  </a>
-</p>
-
-
-
----
-### Currently Activities  
-- Leveling up on **system design** to build scalable, bulletproof apps.  
-- Playing with **real-time data syncing** and **socket programming.**  
-- Mastering React hooks & state for cleaner code.  
-- Diving into microservices and container tech like Docker & K8s.  
-- Exploring AI tools to automate boring dev tasks and speed up workflow.  
-- Building performant web apps using **Next.js** with **TypeScript.**  
-- Learning **Python** for **machine learning** and data-driven solutions.  
- 
-
---- 
-
-### Tech Stack
-
-<div align="left">
-
-Frontend:
-
-<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;"> <img title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="45" />  <img title="React" alt="React" src="https://skillicons.dev/icons?i=react" height="45" /> <img title="React Router" alt="React Router" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" /> <img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="45" /> <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript" height="45" /> <img title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=typescript" height="45" /> <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html" height="45" /> <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" height="45" /> </div>
-
-Backend:
-
-<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;"> <img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="45" /> <img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express" height="45" /> <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="45" /> <img title="PostgreSQL" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql" height="45" /> <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python" height="45" /> </div>
-
-DevOps & Tools:
-
-<div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;"> <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker" height="45" /> <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git" height="45" /> <img title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode" height="45" /> <img title="Firebase" alt="Firebase" src="https://skillicons.dev/icons?i=firebase" height="45" /> </div> </div>
-
-
-
-
-
----
-
-###  Projects
 
 <p align="center">
-
-💻  
-<img src="https://img.shields.io/badge/BookShelf-%20Book%20%20Platform-%2300FFA1?style=for-the-badge&logo=react&logoColor=white" />  
-> BookShelf is a modern full-stack web application that revolutionizes the way people discover, purchase, and manage digital books.
-🔗 [Live](https://client-bookshelf.vercel.app/) • [Client](https://github.com/moshiurrahmandeap11/client-bookshelf)
-
----
-
-🧩  
-<img src="https://img.shields.io/badge/BDBOOk-%20Bangladeshi%20Social%20Media-%2300FFA1?style=for-the-badge&logo=react&logoColor=white" />  
-> A social media platform for Bangladeshi people to share their thoughts and ideas.
-🔗 [Live](https://client-bdbook.vercel.app/) • [Client](https://github.com/moshiurrahmandeap11/client-bdbook) 
-
----
-
-💼  
-<img src="https://img.shields.io/badge/CareerCrafter-%20AIPowered%20Job%20Finder-%2300FFA1?style=for-the-badge&logo=react&logoColor=white" />  
-> Career Crafter is a career guidance platform that helps individuals explore and plan their career paths.
-🔗 [Live](https://careercrafter5.web.app/) • [Client](https://github.com/moshiurrahmandeap11/careerCrafter-client)
-
+<a href="https://github.com/moshiurrahmandeap11">GitHub</a> •
+<a href="https://www.linkedin.com/in/moshiurrahmandeap/">LinkedIn</a> •
+<a href="https://moshiurrahman.online">Portfolio</a>
 </p>
 
 ---
 
+## About
 
-###  GitHub Stats & Activity
+Moshiur Rahman Deap is a Full Stack Developer focused on building scalable, production-grade web applications and real-time systems.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moshiurrahmandeap11&theme=radical&show_icons=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=moshiurrahmandeap11&theme=radical" width="49%" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moshiurrahmandeap11&theme=react-dark" width="98%" />
-</p>
+He works across the full development lifecycle, from designing responsive user interfaces with Next.js and Tailwind CSS to building secure backend services using Node.js, Express.js, and REST APIs. He manages structured and unstructured data using MongoDB and PostgreSQL, and writes maintainable, type-safe code using TypeScript and JavaScript.
 
+His engineering approach prioritizes clean architecture, performance optimization, and long-term maintainability.
 
-
-### 👁 Total Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moshiurrahmandeap11&style=flat-square&color=00FFA1" alt="Profile Views" />
-</p>
+He also integrates modern AI and LLM capabilities into real-world applications, transforming complex workflows into efficient, automated systems.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C47FF,100:4C1D95&height=120&section=footer" />
-</p>
+## Core Stack
+
+**Frontend**  
+Next.js, React.js, Tailwind CSS, TypeScript, JavaScript
+
+**Backend**  
+Node.js, Express.js, REST API, JWT Authentication
+
+**Database**  
+MongoDB, PostgreSQL
+
+**DevOps & Tools**  
+Docker, Git, Firebase, Linux
+
+**Advanced Areas**  
+System Design, Real-time Systems, AI Integration, Socket.io
+
+---
+
+## Selected Projects
+
+### BookShelf – Full Stack Book Platform  
+A scalable web application for discovering, purchasing, and managing digital books.  
+Live: https://client-bookshelf.vercel.app/  
+Repository: https://github.com/moshiurrahmandeap11/client-bookshelf  
+
+---
+
+### BDBook – Social Media Platform  
+A social platform designed for Bangladeshi users to share ideas, content, and communication.  
+Live: https://client-bdbook.vercel.app/  
+Repository: https://github.com/moshiurrahmandeap11/client-bdbook  
+
+---
+
+### CareerCrafter – AI-Powered Career Platform  
+A platform that helps users explore and plan career paths using intelligent recommendations.  
+Live: https://careercrafter5.web.app/  
+Repository: https://github.com/moshiurrahmandeap11/careerCrafter-client  
+
+---
+
+## Current Focus
+
+- Scalable system design and architecture  
+- Real-time data synchronization and socket-based systems  
+- Microservices and container-based deployment (Docker, Kubernetes)  
+- AI and LLM integration into production applications  
+- Performance optimization in Next.js applications  
+- Python for machine learning and data-driven systems  
+
+---
+
+## Contact
+
+- Email: moshiurrahmandeap@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/moshiurrahmandeap/  
+- Portfolio: https://moshiurrahman.online  
+
+---
+
+## Identity
+
+This GitHub profile represents the official work, projects, and engineering contributions of Moshiur Rahman Deap.
