@@ -28,7 +28,9 @@ Stack: Next.js React.js Node.js Express.js TypeScript JavaScript MongoDB Postgre
 
 Open to: Full Stack Developer Next.js Developer Backend Developer Node.js Developer Al Integration Developer Remote Opportunities
 
-Open to meaningful collaborations and opportunities. Let's build something great..  
+Open to meaningful collaborations and opportunities. Let's build something great.. 
+
+This GitHub profile represents the official work and projects of Moshiur Rahman Deap. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
