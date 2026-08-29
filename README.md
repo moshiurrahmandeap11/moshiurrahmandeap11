@@ -96,10 +96,4 @@ I architect end-to-end digital products — from crafting pixel-perfect UIs with
 
 </div>
 
-
-[![Portfolio](https://img.shields.io/badge/creation-0A66C2?style=for-the-badge&logo=Safari&logoColor=white)](https://labtoai.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moshiurrahmandeap/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:moshiurrahmandeap@gmail.com)
-
-
 <img src="https://komarev.com/ghpvc/?username=moshiurrahmandeap11&label=Profile+Visitors&color=0e75b6&style=for-the-badge" alt="Profile Views" /></div>
