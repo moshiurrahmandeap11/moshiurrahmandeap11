@@ -86,53 +86,6 @@ I architect end-to-end digital products — from crafting pixel-perfect UIs with
 
 ---
 
-##  Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center"> BookShelf</h3>
-<p align="center">
-<a href="https://client-bookshelf.vercel.app/" target="_blank"><strong> Live Demo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-<a href="https://github.com/moshiurrahmandeap11/client-bookshelf" target="_blank"><strong> Repository</strong></a>
-</p>
-<p align="center"><i>Full-stack digital book marketplace with MongoDB, Express, React, Node.js</i></p>
-<p align="center"><b>Stack:</b> <br>Next.js • Node.js • Express • MongoDB • JWT • Stripe</p>
-</td>
-<td width="50%">
-<h3 align="center"> BDBook</h3>
-<p align="center">
-<a href="https://client-bdbook.vercel.app/" target="_blank"><strong> Live Demo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-<a href="https://github.com/moshiurrahmandeap11/client-bdbook" target="_blank"><strong> Repository</strong></a>
-</p>
-<p align="center"><i>Social networking platform for Bangladeshi community</i></p>
-<p align="center"><b>Stack:</b> <br>Next.js • Firebase • Tailwind CSS • Real-time Feed</p>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center"> CareerCrafter AI</h3>
-<p align="center">
-<a href="https://careercrafter5.web.app/" target="_blank"><strong> Live Demo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-<a href="https://github.com/moshiurrahmandeap11/careerCrafter-client" target="_blank"><strong> Repository</strong></a>
-</p>
-<p align="center"><i>AI-driven career path discovery with personalized recommendations</i></p>
-<p align="center"><b>Stack:</b> <br>React • Firebase • AI Integration • Responsive Design</p>
-</td>
-<td width="50%">
-<h3 align="center"> More Projects</h3>
-<p align="center">
-<a href="https://github.com/moshiurrahmandeap11?tab=repositories"><strong> Explore All Repositories</strong></a>
-</p>
-</td>
-</tr>
-</table>
-
----
-
 ##  GitHub Analytics
 
 <div align="center">
@@ -169,7 +122,7 @@ I'm actively looking for opportunities to build impactful products.
 Whether it's a freelance project, a full-time role, or an open-source collaboration — let's talk!
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-moshiurrahman.online-0A66C2?style=for-the-badge&logo=Safari&logoColor=white)](https://moshiurrahman.online)
+[![Portfolio](https://img.shields.io/badge/creation-0A66C2?style=for-the-badge&logo=Safari&logoColor=white)](https://labtoai.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moshiurrahmandeap/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:moshiurrahmandeap@gmail.com)
 
