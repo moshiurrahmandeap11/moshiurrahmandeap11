@@ -96,31 +96,6 @@ I architect end-to-end digital products — from crafting pixel-perfect UIs with
 
 </div>
 
----
-
-##  Current Focus & Learning
-
-Active_Projects:
-  - Building scalable microservices architecture
-  - Real-time collaboration features with Socket.io
-
-Learning_Path:
-  - Advanced System Design Patterns
-  - Docker & Kubernetes Orchestration
-  - Python for ML & Data Engineering
-  - LLM API Integration in Next.js apps
-
-2025_Goals:
-  - Launch 2 production-grade SaaS products
-  - Contribute to 5+ open-source projects
-  - Publish technical articles on Medium/Dev.to
----
- Let's Collaborate
-<div align="center">
-I'm actively looking for opportunities to build impactful products.
-
-Whether it's a freelance project, a full-time role, or an open-source collaboration — let's talk!
-
 
 [![Portfolio](https://img.shields.io/badge/creation-0A66C2?style=for-the-badge&logo=Safari&logoColor=white)](https://labtoai.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moshiurrahmandeap/)
