@@ -26,7 +26,7 @@ I architect end-to-end digital products — from crafting pixel-perfect UIs with
 
 ##  Tech Arsenal
 
-<table>
+<table> 
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
