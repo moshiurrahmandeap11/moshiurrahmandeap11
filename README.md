@@ -4,9 +4,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/creation-0A66C2?style=for-the-badge&logo=Safari&logoColor=white)](https://labtoai.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-0A66C2?style=for-the-badge&logo=Safari&logoColor=white)](https://moshiur.pro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moshiurrahmandeap/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:moshiurrahmandeap@gmail.com)
+[![Portfolio](https://img.shields.io/badge/creation-0A66C2?style=for-the-badge&logo=Safari&logoColor=white)](https://labtoai.com)
 
 </div>
 
